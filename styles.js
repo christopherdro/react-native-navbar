@@ -36,7 +36,9 @@ module.exports = React.StyleSheet.create({
     position: 'absolute',
     left: 0,
     right: 0,
-    bottom: 15,
+    bottom: 10,
+    fontFamily: 'AvenirNext-Medium'
+
   },
   navBarLeftButton: {
     paddingLeft: 10,
